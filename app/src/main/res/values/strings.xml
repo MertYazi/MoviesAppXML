@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">MoviesAppXML</string>
-<!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movies">Movies</string>
+    <string name="favorites">Favorites</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="favorite_movies">Favorite Movies</string>
+    <string name="language">Language :\u0020\u0020</string>
+    <string name="genres">Genres :\u0020\u0020</string>
+    <string name="release_date">Release Date :\u0020\u0020</string>
+    <string name="title">Title :\u0020\u0020</string>
 </resources>
